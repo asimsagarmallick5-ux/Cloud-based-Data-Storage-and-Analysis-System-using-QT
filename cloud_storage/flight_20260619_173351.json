@@ -1,0 +1,28 @@
+{
+  "flights": [
+    {
+      "flight_id": "FLT001",
+      "altitude": 1200,
+      "speed": 280,
+      "fuel": 18,
+      "vertical_speed": -1500,
+      "aircraft_type": "Trainer"
+    },
+    {
+      "flight_id": "FLT002",
+      "altitude": 2500,
+      "speed": 320,
+      "fuel": 60,
+      "vertical_speed": -500,
+      "aircraft_type": "Fighter"
+    },
+    {
+      "flight_id": "FLT003",
+      "altitude": 1800,
+      "speed": 350,
+      "fuel": 15,
+      "vertical_speed": -1800,
+      "aircraft_type": "Trainer"
+    }
+  ]
+}
